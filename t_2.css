@@ -1,0 +1,13 @@
+
+table{
+ text-align: center;
+border-width: 5px;
+background-color:hsl(40, 20%, 97%);
+direction: rtl;
+width:60vh;
+height:60vh;
+margin: 0 auto; 
+}
+body{
+background-color:hsla(34, 38%, 92%, 0.719);
+}
